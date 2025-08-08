@@ -6,7 +6,8 @@
 📊 **Comissão Organizadora** da [69ª Reunião Anual da RBras & 21º SEAGRO](https://69rbras21seagro.com.br/)  
 👩🏾‍💻 **Integrante** do [DasLab](https://github.com/daslab)  
 🔬 Apaixonada por **Bioestatística** e **Biotecnologia**
-💻  ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Como me encontrar:
