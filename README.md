@@ -1,5 +1,6 @@
 
-#  Olá! Sou a Livia e seja bem-vindo(a) ao meu cantinho no GitHub!👋🏽
+#  Olá! 👋🏽
+# Sou a Livia e seja bem-vindo(a) ao meu cantinho no GitHub!
 
 🎓 **Estudante de Estatística** na [UFES](https://www.ufes.br)  
 💜 **Co-organizadora** do [R-Ladies Vitória](https://github.com/R-Ladies-Vitoria)  
