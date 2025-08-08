@@ -1,13 +1,12 @@
-# Livia-Ribeiro-Melgaco
 
-# 👋🏽 Bem-vindo(a) ao meu cantinho no GitHub
+#  Olá! Sou a Livia e seja bem-vindo(a) ao meu cantinho no GitHub!👋🏽
 
 🎓 **Estudante de Estatística** na [UFES](https://www.ufes.br)  
 💜 **Co-organizadora** do [R-Ladies Vitória](https://github.com/R-Ladies-Vitoria)  
 📊 **Comissão Organizadora** da [69ª Reunião Anual da RBras & 21º SEAGRO](https://69rbras21seagro.com.br/)  
 👩🏾‍💻 **Integrante** do [DasLab](https://github.com/daslab)  
 🔬 Apaixonada por **Bioestatística** e **Biotecnologia**
-💻 [](https://camo.githubusercontent.com/df8889cd0bdf7c968ad901439001db399779e0513d0f86aa9a6f773c2af46758/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d522d3237364443333f7374796c653d666c6174266c6f676f3d72266c6f676f436f6c6f723d7768697465) [](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+💻 [![R](https://camo.githubusercontent.com/df8889cd0bdf7c968ad901439001db399779e0513d0f86aa9a6f773c2af46758/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d522d3237364443333f7374796c653d666c6174266c6f676f3d72266c6f676f436f6c6f723d7768697465)] [![Python](68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)]
 
 ## Como me encontrar:
 
