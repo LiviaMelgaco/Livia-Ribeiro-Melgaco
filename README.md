@@ -5,7 +5,7 @@
 🎓 **Estudante de Estatística** na [UFES](https://www.ufes.br)  
 💜 **Co-organizadora** do [R-Ladies Vitória](https://github.com/R-Ladies-Vitoria)  
 📊 **Membra da Comissão Organizadora** da [69ª Reunião Anual da RBras & 21º SEAGRO](https://69rbras21seagro.com.br/)  
-👩🏾‍💻 **Integrante** do [DasLab](https://github.com/daslab)  
+👩🏾‍💻 **Integrante** do [DasLab](https://daslab-ufes.github.io/)  
 🔬 Apaixonada por **Bioestatística** e **Biotecnologia**
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
